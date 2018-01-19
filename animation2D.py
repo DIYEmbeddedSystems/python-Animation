@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 
 
-# Préparation de l'animation de la corde
+# Préparation de l'animation de la courbe
 # (inspiration : https://matplotlib.org/examples/animation/simple_anim.html)
 
 # Limites 
